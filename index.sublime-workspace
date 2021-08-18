@@ -1,0 +1,582 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"ta",
+				"translateY()\ttransform"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"dura",
+				"animation-duration\tproperty"
+			],
+			[
+				"animation",
+				"animation-name\tproperty"
+			],
+			[
+				"sk",
+				"skewY()\ttransform"
+			],
+			[
+				"rot",
+				"rotateY()\ttransform"
+			],
+			[
+				"ro",
+				"rotateX()\ttransform"
+			],
+			[
+				"sa",
+				"scaleY()\ttransform"
+			],
+			[
+				"sca",
+				"scaleX()\ttransform"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"le",
+				"left\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"f",
+				"flex-wrap\tproperty"
+			],
+			[
+				"FON",
+				"font-size\tproperty"
+			],
+			[
+				"b",
+				"border\tproperty"
+			],
+			[
+				"fel",
+				"flex-direction\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"aut",
+				"autofocus\tAttr"
+			],
+			[
+				"tras",
+				"transition\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"fot",
+				"font-family\tproperty"
+			],
+			[
+				"100v",
+				"100vh"
+			],
+			[
+				"ps",
+				"position\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"chec",
+				"checkbox"
+			],
+			[
+				"radi",
+				"radio-choice-2"
+			],
+			[
+				"radio",
+				"radio-choice-1"
+			],
+			[
+				"r",
+				"radio-choice-1"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"ovew",
+				"overflow\tproperty"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"fil",
+				"fillText"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"str",
+				"strokeText"
+			],
+			[
+				"stroke",
+				"strokeStyle"
+			],
+			[
+				"st",
+				"strokeText"
+			],
+			[
+				"angu",
+				"angulofin"
+			],
+			[
+				"M",
+				"moveTo"
+			],
+			[
+				"m",
+				"Math"
+			],
+			[
+				"angulo",
+				"anguloinicio"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"s",
+				"select\tTag"
+			],
+			[
+				"p",
+				"position\tproperty"
+			],
+			[
+				"in",
+				"z-index\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"rg",
+				"rgba()\tbackground"
+			],
+			[
+				"ima",
+				"image"
+			],
+			[
+				"line",
+				"lineTo"
+			],
+			[
+				"stro",
+				"strokeStyle"
+			],
+			[
+				"get",
+				"get\tGet Elements"
+			],
+			[
+				"c",
+				"contexto"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"rb",
+				"rgba()\tbackground"
+			],
+			[
+				"is",
+				"Instagram"
+			],
+			[
+				"coor",
+				"color\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"menu",
+				"menuBtn"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"l",
+				"lorem\tLorem ipsum"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"da",
+				"datalist\tTag"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/CSS/blog.css",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/blog.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/CSS/servicios.css",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/servicios.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/CSS/style.css",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/index.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/PHP/enviar.php",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/JS/scripts.js",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/JS/Dibujadigura.js",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/Cajas fijas y flotantes/css/index.css",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/CAJAS FIJAS/CSS/Cajasfija.css",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PSEUDOCLASES/CSS/cajafija.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/CAJAS FIJAS/CSS/cajasfija.css",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/CAJAS FIJAS/cajafija.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/redesimformaticas.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/principios.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/Herramientasweb.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/contacto.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/inicio.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECCTOWED2021/CSS/index.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/CSS/Contestilo.css",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/JQUERY/index.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/JQUERY/Trabajo telefonico",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/IMG/scripts.js",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/IMG/servicios.css",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/IMG/servicios.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/IMG/style.css",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/IMG/blog.css",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/IMG/inicio.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/JQUERY/botones2tarea.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/JQUERY/contacto.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/JQUERY/servicios.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/JQUERY/blog.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/JQUERY/botones.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/IMG/contacto.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/IMG/Contestilo.css",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PDF  tareas/Carrito-de-compras-con-HTML5-CSS3-y-JS-master/assets/styles/registro.css",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PDF  tareas/Carrito-de-compras-con-HTML5-CSS3-y-JS-master/carrito.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PDF  tareas/Carrito-de-compras-con-HTML5-CSS3-y-JS-master/misProductos.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/Proyecto web/img/Estructura.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/Proyecto web/img/Formulario1.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/Proyecto web/img/inicio.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/Proyecto web/img/PAGINA WEB.zip",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/Proyecto web/img/blog.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PDF  tareas/Carrito-de-compras-con-HTML5-CSS3-y-JS-master/registro.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/IMG/blog.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/CANVAS/canvas.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/CANVAS/js/dibuja.js",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/IMG/Formulario1.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/PROYECTOWEB/IMG/Canvas.html",
+		"/D/UNIDAD 3/FUNDAMENTOS DE DESARROLLO WEB/Proyecto web/img/canvas.html",
+		"/D/UNIDAD 3/Fundamentos de desarrollo web/Proyecto web/img/Formulario1.html",
+		"/D/UNIDAD 3/Fundamentos de desarrollo web/Proyecto web/proyecto/pactica 2/proyecto.html",
+		"/C/Users/Pasiche/Pictures/proyecto/estilo.css",
+		"/D/UNIDAD 3/Fundamentos de desarrollo web/Proyecto web/img/contacto.html",
+		"/D/UNIDAD 3/Fundamentos de desarrollo web/Proyecto web/img/blog.html",
+		"/D/UNIDAD 3/Fundamentos de desarrollo web/Proyecto web/img/servicios.html",
+		"/D/UNIDAD 3/Fundamentos de desarrollo web/Proyecto web/img/inicio.html",
+		"/D/UNIDAD 3/Fundamentos de desarrollo web/Proyecto web/proyecto/pactica 2/Estructura.html",
+		"/D/UNIDAD 3/Fundamentos de desarrollo web/Proyecto web/img/Formulario.html",
+		"/D/UNIDAD 3/Fundamentos de desarrollo web/HTML/prueba1.html",
+		"/D/UNIDAD 3/Fundamentos de desarrollo web/Proyecto web/img/aula virtual.html",
+		"/C/Users/Pasiche/AppData/Roaming/Sublime Text 3/Packages/User/vista2",
+		"/D/UNIDAD 3/Fundamentos de desarrollo web/HTML/contacto.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/vista2.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 146.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
